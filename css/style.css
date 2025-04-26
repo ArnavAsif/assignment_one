@@ -166,6 +166,8 @@
   letter-spacing: 0%;
   text-align: center;
   opacity: 0.7;
+  margin-top: 24px;
+  margin-bottom: 48px;
 
   }
   .skill-one{
@@ -196,6 +198,7 @@
   /* inspiration style */
   .inspiration{
     max-width: 1140px;
+    margin: 0 auto;
   }
   .ins-head{
     color: rgb(13, 19, 33);
